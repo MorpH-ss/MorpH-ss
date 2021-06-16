@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MorpH-ss
+- 👋 Hi, I’m Subhakanta Satapathy
 - 👀 I’m interested in AI/ML/DATA Science
 - 🌱 I’m currently learning Web Scarpping
 <!--- 💞️ I’m looking to collaborate on ...
