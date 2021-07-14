@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Subhakanta Satapathy
 - 👀 I’m interested in AI/ML/DATA Science
-- 🌱 I’m currently learning Web Scarpping
+- 🌱 I’m currently learning Data Science
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
